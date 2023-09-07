@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "530149445763",
+    "project_id": "todo-list-asfamilybank",
+    "storage_bucket": "todo-list-asfamilybank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530149445763:android:0ef383b2eb23ca26f60bb6",
+        "android_client_info": {
+          "package_name": "com.asfamilybank.todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530149445763-f788g468vt835iprhlq293ir1430hqdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZDhqwVWybFmhmTZxp9OH0jF-xURKWSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530149445763-0mb462f0dq8ubv49gblic13808cind4c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530149445763-1899r25epmiim3ud7m2pr2fovn2f2j1r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoList"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
